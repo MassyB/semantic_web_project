@@ -1,0 +1,11 @@
+#Semantic Web Project [D&K2017]
+
+In order ot launch the notebook use the commande below:
+* **`jupyter notebook semantic_web_project.ipynb`**
+ 
+I've used [InShowTimes API](https://www.internationalshowtimes.com/) to get the information about:
+* the theaters nearby a position 
+* the movies playing in a theater
+* the genre/category of a movie
+
+
