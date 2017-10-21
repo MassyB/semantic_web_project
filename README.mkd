@@ -1,4 +1,4 @@
-#Semantic Web Project [D&K2017]
+# Semantic Web Project [D&K2017]
 
 In order ot launch the notebook use the commande below:
 * **`jupyter notebook semantic_web_project.ipynb`**
