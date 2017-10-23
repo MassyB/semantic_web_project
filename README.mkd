@@ -8,4 +8,9 @@ I've used [InShowTimes API](https://www.internationalshowtimes.com/) (take a loo
 * the movies playing in a theater
 * the genre/category of a movie
 
+## Prerequesite
+* **python3**
+* **jupyter notebook**
+* **requests** python
 
+as s shortcut, just install the **[Anaconda](https://www.anaconda.com/download/)** distribution and you will be up and running to execute the above notebook
